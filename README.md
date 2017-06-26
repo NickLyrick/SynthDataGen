@@ -8,3 +8,16 @@
 5. Control instruction will be displayed in terminal window.
 
 Sorry for bad-code. I don't try to make it perfect)
+
+
+Examples of render images
+=========================
+Render image:
+
+<img src="https://github.com/NickLyrick/SynthDataGen/blob/master/For_segmentation_example/images/havoc_0.png" alt="Screenshot1" border="1" height="640" width="640">
+
+Labeled image:
+
+<img src="https://github.com/NickLyrick/SynthDataGen/blob/master/For_segmentation_example/labels/havoc_0.png" alt="Screenshot2" border="1" height="640" width="640">
+
+This kind of images used by me for learning CNN for semantic segmetation. 
