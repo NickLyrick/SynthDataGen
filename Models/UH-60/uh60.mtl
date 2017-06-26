@@ -1,0 +1,107 @@
+
+newmtl Material_25
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 17.1484
+map_Kd fuselage.jpg
+
+newmtl Material_26
+Ka 0.0470588 0.141176 0.196078
+Kd 0.0470588 0.141176 0.196078
+Ks 0.9 0.9 0.9
+illum 2
+Ns 22.6274
+d 0.43
+map_Kd fuselage.jpg
+
+newmtl _1__Default
+Ka 0.588 0.588 0.588
+Kd 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+illum 2
+Ns 17.1484
+map_Kd fuselage.jpg
+
+newmtl Glass
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 34.2967
+map_Kd Glass.jpg
+
+newmtl Land
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 34.2967
+map_Kd land.jpg
+
+newmtl Material_29
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 34.2967
+#map_Kd pal.jpg
+
+newmtl Material_32
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 21.1121
+map_Kd Plt.jpg
+
+newmtl Material_36
+Ka 0.0470588 0.447059 0.133333
+Kd 0.0470588 0.447059 0.133333
+Ks 0.9 0.9 0.9
+illum 2
+Ns 22.6274
+d 0.43
+map_Kd fuselage.jpg
+
+newmtl Material_28
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 13.9288
+map_Kd panel.jpg
+
+newmtl Material_30
+Ka 0.34902 0.313726 0.262745
+Kd 0.34902 0.313726 0.262745
+Ks 0.9 0.9 0.9
+illum 2
+Ns 27.8576
+map_Kd fuselage.jpg
+
+newmtl Material_37
+Ka 0.658824 0.0392157 0.0392157
+Kd 0.658824 0.0392157 0.0392157
+Ks 0.9 0.9 0.9
+illum 2
+Ns 22.6274
+d 0.71
+map_Kd fuselage.jpg
+
+newmtl Material_33
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 25.9921
+map_Kd land.jpg
+
+newmtl Material_34
+Ka 0.184314 0.184314 0.184314
+Kd 0.184314 0.184314 0.184314
+Ks 0.9 0.9 0.9
+illum 2
+Ns 12.1257
+map_Kd fuselage.jpg

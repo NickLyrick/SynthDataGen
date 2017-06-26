@@ -1,0 +1,46 @@
+newmtl Material__27
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd fmouth.tga
+#
+newmtl male_02.male_02_reference.smd.mesh_02
+Ka  0.9 0.8 0.8
+Kd  0.9 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  9.4
+illum 2
+map_Kd 1174.jpg
+#
+newmtl male_02.male_02_reference.smd.mesh_03
+Ka  0.7 1.0 0.4
+Kd  0.7 1.0 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.0
+illum 2
+map_Kd army2acemap.tga
+#
+newmtl male_02.male_02_reference.smd.mesh_04
+Ka  0.6 1.0 0.4
+Kd  0.6 1.0 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+map_Kd woodlandarmyt.tga
+#
+newmtl Material__26
+Ka  0.9 0.8 0.8
+Kd  0.9 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  9.4
+illum 2
+map_Kd 1174.jpg
+#
+# EOF

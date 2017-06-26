@@ -1,0 +1,27 @@
+newmtl Main_Body_2
+Ka 0.15 0.15 0.15
+Kd 1.00 1.00 1.00
+Ks 0.59 0.59 0.59
+illum 4
+map_Kd Main_Body_2.png
+
+newmtl Main_Body
+Ka 0.15 0.15 0.15
+Kd 1.00 1.00 1.00
+Ks 0.59 0.59 0.59
+illum 4
+map_Kd Main_Body.png
+
+newmtl Turret
+Ka 0.15 0.15 0.15
+Kd 1.00 1.00 1.00
+Ks 0.59 0.59 0.59
+illum 4
+map_Kd Turret.png
+
+newmtl Gun
+Ka 0.15 0.15 0.15
+Kd 1.00 1.00 1.00
+Ks 0.59 0.59 0.59
+illum 4
+map_Kd Gun.png 
